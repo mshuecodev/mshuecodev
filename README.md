@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm  Misna Syari
 
-![Profile Views](https://gpvc.arturio.dev/mshuecodev)
+![](https://komarev.com/ghpvc/?username=mshuecodev)
 
 ## 👨‍💻 About Me:
 - 🔭 Currently working on Geo-tagged-diary project
