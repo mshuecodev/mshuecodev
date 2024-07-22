@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm  Misna Syari
 
+![Profile Views](https://gpvc.arturio.dev/your-username)
+
+## 👨‍💻 About Me:
+- 🔭 Currently working on Geo-tagged-diary project
+- 🌱 Currently learning NestJS
 <!--
 **mshuecodev/mshuecodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
