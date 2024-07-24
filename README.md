@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mshuecodev)
 
-## 👨‍💻 About Me:
+## 👨‍💻 About Me: https://mshuecodev.github.io/ms-portfolio/
 - 🔭 Currently working on Geo-tagged-diary project
 - 🌱 Currently learning NestJS
 <!--
