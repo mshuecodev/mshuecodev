@@ -1,10 +1,10 @@
 ## Hi there 👋 MS-DEV here.
 
 ![](https://komarev.com/ghpvc/?username=mshuecodev)
-
-## 👨‍💻 About Me: https://mshuecodev.github.io/ms-portfolio/
-- 🔭 Currently working on Geo-tagged-diary project
-- 🌱 Currently learning NestJS
+ 
+<!-- ## 👨‍💻 About Me: https://mshuecodev.github.io/ms-portfolio/ -->
+- 🌱 Code with ME. LEARN from Scratch.
+<!-- - 🌱 Currently learning NestJS -->
 <!--
 **mshuecodev/mshuecodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
